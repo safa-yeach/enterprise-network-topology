@@ -122,5 +122,5 @@ SW1(config-if)# ip access-group BLOKIR_STAFF in
 | **NAT & Extended ACL** | `show ip nat translations` & `show access-lists` | Translasi IP aktif dan counter *matches* ACL berjalan. |
 
 ### 📑 Dokumen Panduan Teknis (PDF)
-👉 **[Klik di Sini untuk Membaca / Mengunduh Dokumen Teknis Lengkap (6 Halaman PDF)](Rangkuman_Arsitektur_Jaringan_Enterprise)**
+👉 **[Klik di Sini untuk Membaca / Mengunduh Dokumen Teknis Lengkap (6 Halaman PDF)](Rangkuman_Arsitektur_Jaringan_Enterprise.pdf)**
 
