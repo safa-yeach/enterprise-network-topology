@@ -120,3 +120,7 @@ SW1(config-if)# ip access-group BLOKIR_STAFF in
 | **DHCP Split-Scope** | `show ip dhcp binding` | Alamat IP klien terbagi rata tanpa konflik. |
 | **OSPF & Failover** | `show ip ospf neighbor` & `show ip route` | Tetangga `FULL` dan muncul rute default `O*E2 0.0.0.0/0`. |
 | **NAT & Extended ACL** | `show ip nat translations` & `show access-lists` | Translasi IP aktif dan counter *matches* ACL berjalan. |
+
+### 📑 Dokumen Panduan Teknis (PDF)
+👉 **[Klik di Sini untuk Membaca / Mengunduh Dokumen Teknis Lengkap (6 Halaman PDF)](Rangkuman_Arsitektur_Jaringan_Enterprise)**
+
